@@ -20,17 +20,6 @@ Desktop.ini
 !.vscode/extensions.json
 !.vscode/settings.json
 
-# OpenSCAD
-*.stl
-*.off
-*.amf
-*.3mf
-*.csg
-*.dxf
-*.svg
-*.png
-*.pdf
-
 # Backup / temp
 *.bak
 *.tmp
