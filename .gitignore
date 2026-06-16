@@ -24,3 +24,15 @@ Desktop.ini
 *.bak
 *.tmp
 *.log
+
+# OpenSCAD exports
+*.stl
+*.off
+*.amf
+*.3mf
+*.csg
+*.dxf
+*.svg
+*.png
+*.pdf
+*.obj
